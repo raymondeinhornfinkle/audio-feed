@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Pod Maker</title>
+    <description>Long-form narrated history and research episodes.</description>
+    <link>https://github.com/raymondeinhornfinkle/audio-feed</link>
+    <language>en-us</language>
+    <itunes:author>Pod Maker</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Sat, 29 Aug 2026 22:19:48 +0000</lastBuildDate>
+    <item>
+      <title>The Israel–Palestine Conflict: A Narrated History</title>
+      <description>A chronological, evidence-grounded history of the Israel–Palestine conflict, from Basel in 1897 to the present — competing national claims, imperial promises, wars, displacement, and the questions every settlement attempt has left unresolved.</description>
+      <guid isPermaLink="false">3c8f2fa4b5436c3c73fd8c181d8350ff9d7bbdeb027cd1844403fbd1b7a72398</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/raymondeinhornfinkle/audio-feed/releases/download/israel-palestine-v2/israel-palestine-episode-v2.mp3" length="76535450" type="audio/mpeg"/>
+      <itunes:duration>1:19:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
