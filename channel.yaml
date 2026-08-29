@@ -1,0 +1,15 @@
+title: Pod Maker
+description: Long-form narrated history and research episodes.
+base_url: https://github.com/raymondeinhornfinkle/audio-feed
+author: Pod Maker
+episodes:
+  - file: israel-palestine-episode-v2.mp3
+    title: "The Israel–Palestine Conflict: A Narrated History"
+    description: >-
+      A chronological, evidence-grounded history of the Israel–Palestine
+      conflict, from Basel in 1897 to the present — competing national claims,
+      imperial promises, wars, displacement, and the questions every
+      settlement attempt has left unresolved.
+    pubdate: 2026-08-29
+    url: https://github.com/raymondeinhornfinkle/audio-feed/releases/download/israel-palestine-v2/israel-palestine-episode-v2.mp3
+    local_file: /Users/mattschindel/Library/Mobile Documents/com~apple~CloudDocs/pod-maker/israel-palestine-episode-v2.mp3
