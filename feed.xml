@@ -7,7 +7,7 @@
     <language>en-us</language>
     <itunes:author>Pod Maker</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 29 Aug 2026 23:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:43:12 +0000</lastBuildDate>
     <item>
       <title>The Israel–Palestine Conflict: A Narrated History</title>
       <description>A chronological, evidence-grounded history of the Israel–Palestine conflict, from Basel in 1897 to the present — competing national claims, imperial promises, wars, displacement, and the questions every settlement attempt has left unresolved.</description>
@@ -15,6 +15,15 @@
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/israel-palestine-episode-v2.mp3" length="76535450" type="audio/mpeg"/>
       <itunes:duration>1:19:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Making of England: Vikings, Alfred, and the Kingdom That Almost Wasn't</title>
+      <description>How a collection of competing Anglo-Saxon kingdoms, facing what at times looked like destruction by Viking armies, became the Kingdom of England. From the night attack on Chippenham in 878 through Alfred in the marshes, the burhs, the Danelaw, Edward and Aethelflaed, Aethelstan's capture of York in 927, Brunanburh, and the final securing of the north in 954. The real history behind Bernard Cornwell's The Last Kingdom.</description>
+      <guid isPermaLink="false">107a5e081f44244bb46dc210cf11f69a7e1278edb124edac25edd5611c6b2a49</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/the-making-of-england.mp3" length="86167340" type="audio/mpeg"/>
+      <itunes:duration>2:59:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
