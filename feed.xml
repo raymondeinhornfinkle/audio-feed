@@ -7,7 +7,7 @@
     <language>en-us</language>
     <itunes:author>Pod Maker</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 31 Aug 2026 20:48:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:49:02 +0000</lastBuildDate>
     <item>
       <title>The Israel–Palestine Conflict: A Narrated History</title>
       <description>A chronological, evidence-grounded history of the Israel–Palestine conflict, from Basel in 1897 to the present — competing national claims, imperial promises, wars, displacement, and the questions every settlement attempt has left unresolved.</description>
@@ -42,6 +42,15 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-2.mp3" length="69024620" type="audio/mpeg"/>
       <itunes:duration>2:23:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Before Basel, Part Three: Ottoman Centuries and the Approach to 1900</title>
+      <description>Part three of a prequel to The Israel-Palestine Conflict. From the Ottoman conquest and the provincial frame, through waqf and the courts, the 1858 Land Code and what it actually did, the ecology of survival, the problem of counting a population nobody counted the same way, nineteenth-century migration and reform, and the national movements taking shape at the century's end. Closes by asking what this history can and cannot decide about the modern claims.</description>
+      <guid isPermaLink="false">podmaker:before-basel-part-3</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-3.mp3" length="78461996" type="audio/mpeg"/>
+      <itunes:duration>2:43:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
