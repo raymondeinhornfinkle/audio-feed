@@ -7,7 +7,7 @@
     <language>en-us</language>
     <itunes:author>Pod Maker</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 30 Aug 2026 19:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:48:33 +0000</lastBuildDate>
     <item>
       <title>The Israel–Palestine Conflict: A Narrated History</title>
       <description>A chronological, evidence-grounded history of the Israel–Palestine conflict, from Basel in 1897 to the present — competing national claims, imperial promises, wars, displacement, and the questions every settlement attempt has left unresolved.</description>
@@ -24,6 +24,15 @@
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/the-making-of-england.mp3" length="86168742" type="audio/mpeg"/>
       <itunes:duration>2:59:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Before Basel, Part One: The Land, the Kingdoms, and the Roman Rupture</title>
+      <description>Part one of a prequel to The Israel-Palestine Conflict. From the geography that made this corridor matter, through the first villages and the Bronze Age city-states, the emergence of Israel and Judah, Assyrian and Babylonian deportation, Persian Yehud, the Hellenistic and Hasmonean centuries, Herod's Jerusalem, and the revolt that ended the Second Temple. What the evidence establishes, what it suggests, and what it cannot settle.</description>
+      <guid isPermaLink="false">podmaker:before-basel-part-1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-1.mp3" length="71760620" type="audio/mpeg"/>
+      <itunes:duration>2:29:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
