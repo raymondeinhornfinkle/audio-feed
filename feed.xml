@@ -7,7 +7,7 @@
     <language>en-us</language>
     <itunes:author>Pod Maker</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 31 Aug 2026 20:48:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:48:47 +0000</lastBuildDate>
     <item>
       <title>The Israel–Palestine Conflict: A Narrated History</title>
       <description>A chronological, evidence-grounded history of the Israel–Palestine conflict, from Basel in 1897 to the present — competing national claims, imperial promises, wars, displacement, and the questions every settlement attempt has left unresolved.</description>
@@ -33,6 +33,15 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-1.mp3" length="71760620" type="audio/mpeg"/>
       <itunes:duration>2:29:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Before Basel, Part Two: Christian Empire, Islamic Rule, and the Crusader Centuries</title>
+      <description>Part two of a prequel to The Israel-Palestine Conflict. From Bar Kokhba and the limits of return, through the Christianization of the empire and the plural landscape it never erased, the Arab conquest and the question of what actually happened to the people already there, Umayyad Jerusalem, the Abbasid and Fatimid centuries, Crusader rule, Ayyubid recovery, and the Mamluk pilgrimage roads.</description>
+      <guid isPermaLink="false">podmaker:before-basel-part-2</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-2.mp3" length="69024620" type="audio/mpeg"/>
+      <itunes:duration>2:23:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
