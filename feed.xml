@@ -7,7 +7,7 @@
     <language>en-us</language>
     <itunes:author>Pod Maker</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 31 Aug 2026 20:49:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:52:42 +0000</lastBuildDate>
     <item>
       <title>The Israel–Palestine Conflict: A Narrated History</title>
       <description>A chronological, evidence-grounded history of the Israel–Palestine conflict, from Basel in 1897 to the present — competing national claims, imperial promises, wars, displacement, and the questions every settlement attempt has left unresolved.</description>
@@ -51,6 +51,15 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-3.mp3" length="78461996" type="audio/mpeg"/>
       <itunes:duration>2:43:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Clancy Verdict Question: What the Jury Must Decide</title>
+      <description>A pre-verdict legal analysis of Commonwealth v. Lindsay Clancy, recorded on September first, two thousand twenty-six, while the jury was still deliberating. Reconstructs the public evidentiary record, applies the Massachusetts criminal-responsibility standard and the law of homicide grading, weighs the competing expert testimony, and forecasts each possible verdict with reasoned probabilities. Analysis only: no advocacy, and no claim that a verdict has been returned. Research note: Associated Press and Massachusetts state materials could not be retrieved during research, so the record here rests on court transcripts, case law, and mainstream reporting, and the underlying research disposition is provisional.</description>
+      <guid isPermaLink="false">podmaker:clancy-verdict-question</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/clancy-verdict-question.mp3" length="65258257" type="audio/mpeg"/>
+      <itunes:duration>1:07:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
