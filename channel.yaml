@@ -1,7 +1,12 @@
-title: Pod Maker
-description: Long-form narrated history and research episodes.
+title: I Killed Darnell Simmons
+description: >-
+  Deeply researched long-form history and legal analysis. Every episode is
+  built from primary sources and independently fact-checked, and says plainly
+  what the evidence establishes, what it only suggests, and what it cannot
+  settle. The name is a Key and Peele reference, from a sketch about the
+  difference between a story someone wrote and a thing someone did.
 base_url: https://github.com/raymondeinhornfinkle/audio-feed
-author: Pod Maker
+author: Raymond Einhorn Finkle
 episodes:
 - file: israel-palestine-episode-v2.mp3
   title: 'The Israel–Palestine Conflict: A Narrated History'

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Pod Maker</title>
-    <description>Long-form narrated history and research episodes.</description>
+    <title>I Killed Darnell Simmons</title>
+    <description>Deeply researched long-form history and legal analysis. Every episode is built from primary sources and independently fact-checked, and says plainly what the evidence establishes, what it only suggests, and what it cannot settle. The name is a Key and Peele reference, from a sketch about the difference between a story someone wrote and a thing someone did.</description>
     <link>https://github.com/raymondeinhornfinkle/audio-feed</link>
     <language>en-us</language>
-    <itunes:author>Pod Maker</itunes:author>
+    <itunes:author>Raymond Einhorn Finkle</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 01 Sep 2026 13:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:49:29 +0000</lastBuildDate>
     <item>
       <title>The Israel–Palestine Conflict: A Narrated History</title>
       <description>A chronological, evidence-grounded history of the Israel–Palestine conflict, from Basel in 1897 to the present — competing national claims, imperial promises, wars, displacement, and the questions every settlement attempt has left unresolved.</description>
