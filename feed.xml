@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>I Killed Darnell Simmons</title>
     <description>Deeply researched long-form history and legal analysis. Every episode is built from primary sources and independently fact-checked, and says plainly what the evidence establishes, what it only suggests, and what it cannot settle. The name is a Key and Peele reference, from a sketch about the difference between a story someone wrote and a thing someone did.</description>
@@ -7,13 +7,35 @@
     <language>en-us</language>
     <itunes:author>Raymond Einhorn Finkle</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 01 Sep 2026 14:49:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:10:02 +0000</lastBuildDate>
+    <item>
+      <title>Mark (Colossus)</title>
+      <description>An audio reading of Mark from Colossus.</description>
+      <link>https://colossus.com/article/mark-zuckerberg-profile/</link>
+      <pubDate>Tue, 15 Sep 2026 03:00:57 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:09df356e778ed796e9959f7d9683c6cbc3ec3578dc24aabe689204a15afcfb81</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/releases/article-09df356e778ed796e9959f7d/article.mp3" length="85343492" type="audio/mpeg" />
+      <itunes:author>Jeremy Stern</itunes:author>
+      <itunes:duration>01:28:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Taxation in a strong AI world (Marginal Revolution)</title>
+      <description>An audio reading of Taxation in a strong AI world from Marginal Revolution.</description>
+      <link>https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html</link>
+      <pubDate>Tue, 15 Sep 2026 03:01:44 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:40b66d4ef7b1cbde6cfb70682829b3487e26999cc6eeec795ee4f52d187c7cba</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/releases/article-40b66d4ef7b1cbde6cfb7068/article.mp3" length="2877977" type="audio/mpeg" />
+      <itunes:author>Tyler Cowen</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Israel–Palestine Conflict: A Narrated History</title>
       <description>A chronological, evidence-grounded history of the Israel–Palestine conflict, from Basel in 1897 to the present — competing national claims, imperial promises, wars, displacement, and the questions every settlement attempt has left unresolved.</description>
       <guid isPermaLink="false">podmaker:israel-palestine-episode-v2</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/israel-palestine-episode-v2.mp3" length="76535450" type="audio/mpeg"/>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/israel-palestine-episode-v2.mp3" length="76535450" type="audio/mpeg" />
       <itunes:duration>1:19:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -22,7 +44,7 @@
       <description>How a collection of competing Anglo-Saxon kingdoms, facing what at times looked like destruction by Viking armies, became the Kingdom of England. From the night attack on Chippenham in 878 through Alfred in the marshes, the burhs, the Danelaw, Edward and Aethelflaed, Aethelstan's capture of York in 927, Brunanburh, and the final securing of the north in 954. The real history behind Bernard Cornwell's The Last Kingdom.</description>
       <guid isPermaLink="false">podmaker:the-making-of-england</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/the-making-of-england.mp3" length="86168742" type="audio/mpeg"/>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/the-making-of-england.mp3" length="86168742" type="audio/mpeg" />
       <itunes:duration>2:59:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -31,7 +53,7 @@
       <description>Part one of a prequel to The Israel-Palestine Conflict. From the geography that made this corridor matter, through the first villages and the Bronze Age city-states, the emergence of Israel and Judah, Assyrian and Babylonian deportation, Persian Yehud, the Hellenistic and Hasmonean centuries, Herod's Jerusalem, and the revolt that ended the Second Temple. What the evidence establishes, what it suggests, and what it cannot settle.</description>
       <guid isPermaLink="false">podmaker:before-basel-part-1</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-1.mp3" length="71760620" type="audio/mpeg"/>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-1.mp3" length="71760620" type="audio/mpeg" />
       <itunes:duration>2:29:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -40,7 +62,7 @@
       <description>Part two of a prequel to The Israel-Palestine Conflict. From Bar Kokhba and the limits of return, through the Christianization of the empire and the plural landscape it never erased, the Arab conquest and the question of what actually happened to the people already there, Umayyad Jerusalem, the Abbasid and Fatimid centuries, Crusader rule, Ayyubid recovery, and the Mamluk pilgrimage roads.</description>
       <guid isPermaLink="false">podmaker:before-basel-part-2</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-2.mp3" length="69024620" type="audio/mpeg"/>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-2.mp3" length="69024620" type="audio/mpeg" />
       <itunes:duration>2:23:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -49,7 +71,7 @@
       <description>Part three of a prequel to The Israel-Palestine Conflict. From the Ottoman conquest and the provincial frame, through waqf and the courts, the 1858 Land Code and what it actually did, the ecology of survival, the problem of counting a population nobody counted the same way, nineteenth-century migration and reform, and the national movements taking shape at the century's end. Closes by asking what this history can and cannot decide about the modern claims.</description>
       <guid isPermaLink="false">podmaker:before-basel-part-3</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-3.mp3" length="78461996" type="audio/mpeg"/>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/before-basel-part-3.mp3" length="78461996" type="audio/mpeg" />
       <itunes:duration>2:43:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -58,7 +80,7 @@
       <description>A pre-verdict legal analysis of Commonwealth v. Lindsay Clancy, recorded on September first, two thousand twenty-six, while the jury was still deliberating. Reconstructs the public evidentiary record, applies the Massachusetts criminal-responsibility standard and the law of homicide grading, weighs the competing expert testimony, and forecasts each possible verdict with reasoned probabilities. Analysis only: no advocacy, and no claim that a verdict has been returned. Research note: Associated Press and Massachusetts state materials could not be retrieved during research, so the record here rests on court transcripts, case law, and mainstream reporting, and the underlying research disposition is provisional.</description>
       <guid isPermaLink="false">podmaker:clancy-verdict-question</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/clancy-verdict-question.mp3" length="65258257" type="audio/mpeg"/>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/episodes/clancy-verdict-question.mp3" length="65258257" type="audio/mpeg" />
       <itunes:duration>1:07:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
