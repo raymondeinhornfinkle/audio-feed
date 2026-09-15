@@ -1,0 +1,48 @@
+{
+  "article_id": "40b66d4ef7b1cbde6cfb70682829b3487e26999cc6eeec795ee4f52d187c7cba",
+  "guid": "urn:article-reader:40b66d4ef7b1cbde6cfb70682829b3487e26999cc6eeec795ee4f52d187c7cba",
+  "release_name": "article-40b66d4ef7b1cbde6cfb7068",
+  "article_title": "Taxation in a strong AI world",
+  "publication": "Marginal Revolution",
+  "title": "Taxation in a strong AI world (Marginal Revolution)",
+  "author": "Tyler Cowen",
+  "source_url": "https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html",
+  "duration_seconds": 179.775,
+  "file_size": 2877977,
+  "media_sha256": "a85f131715922fda339bb874622a2109f07a0e883819c594e19b816943f5b3cb",
+  "transcript_sha256": "22fea44eab9a4eb3b8be4403ab09d9a2b36d73dda7600b444eb01b5917945553",
+  "extraction_report_sha256": "31eef07ebf5aad38b257e307f9c01f034f1574ec2448bb0b1ee78f6e00e0f458",
+  "audio_manifest_sha256": "981f27027a19b28f3646beb23c1734d55bc7ea1e74f179f57fd782b550782068",
+  "audio_run_sha256": "e4e06d600dcdb60a8bda3b096a99ed414d1e5a8d68c07fad15de92f75ab93a30",
+  "audio_settings_sha256": "35a35fa46c663259144b7037246b508559f0614db235c5d04ad896777f9a931f",
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "22fea44eab9a4eb3b8be4403ab09d9a2b36d73dda7600b444eb01b5917945553",
+      "audio_sha256": "6548b30cdc05921a3a426768b73663516699f4f174180357f2d837fbcfbc95bd",
+      "pcm_frames": 4314600
+    }
+  ],
+  "pcm_sha256": "dd1a6da59390210adb2d0aee7c6b87ba4c0fbbefc79f8554f910f7186916bc69",
+  "pcm_frames": 4314600,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed/releases/article-40b66d4ef7b1cbde6cfb7068/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed/releases/article-40b66d4ef7b1cbde6cfb7068/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed/releases/article-40b66d4ef7b1cbde6cfb7068/rss-item.xml",
+  "released_at": "2026-09-15T03:01:44.489312+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

@@ -1,0 +1,186 @@
+{
+  "article_id": "09df356e778ed796e9959f7d9683c6cbc3ec3578dc24aabe689204a15afcfb81",
+  "guid": "urn:article-reader:09df356e778ed796e9959f7d9683c6cbc3ec3578dc24aabe689204a15afcfb81",
+  "release_name": "article-09df356e778ed796e9959f7d",
+  "article_title": "Mark",
+  "publication": "Colossus",
+  "title": "Mark (Colossus)",
+  "author": "Jeremy Stern",
+  "source_url": "https://colossus.com/article/mark-zuckerberg-profile/",
+  "duration_seconds": 5333.86,
+  "file_size": 85343492,
+  "media_sha256": "54889bcc6635409ffc042394f97817230fcb08ce80d70359cb7b6627e0e4b284",
+  "transcript_sha256": "a30b573f4cf21c036d6c57d2757952aa2a21a512a767289e3ae9dfc4757dfe27",
+  "extraction_report_sha256": "f01c4fb7b977358c8779adc3a95005b90be54965e9881285ccf569e7651d6d32",
+  "audio_manifest_sha256": "efe73be8ed51eba76d7cbdde607ff857fff8b4ac69492fe9f15fdb25969f04e1",
+  "audio_run_sha256": "187afad6e9a37de60a0136e3a62fb2ad3d5897e93c7fde3fb70cf5a4b8624baf",
+  "audio_settings_sha256": "35a35fa46c663259144b7037246b508559f0614db235c5d04ad896777f9a931f",
+  "chunk_count": 24,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "eba8ae0d7cba6828aa365812e0b8a0cbb44e480df9ee16c374cccb64d0f29569",
+      "audio_sha256": "390caed1ed4a21e3d9f4e3b56581e08be9f4850105b58faf1c45ac75820a30b6",
+      "pcm_frames": 5772960
+    },
+    {
+      "index": 2,
+      "text_sha256": "b17c4a70e30aa2c813ff0c8e797459bcd7eb0e9931004ddf34f495bd214a84ac",
+      "audio_sha256": "c8500a00e3672a18ff56eb311cb8e95159df9d882dc969b073ff438d5bb29491",
+      "pcm_frames": 5769720
+    },
+    {
+      "index": 3,
+      "text_sha256": "cfffa478d1cf452a251273736699ca639401600fed381cc7956a2874c166ffda",
+      "audio_sha256": "3b3ee0c674dde750f3591bd9dbf050e9e41a9adbd60547dd4b1c31f58d5a6fd6",
+      "pcm_frames": 5719320
+    },
+    {
+      "index": 4,
+      "text_sha256": "9e503fafa6e6c57471ea6ecbbbf3fc219084d545d9260e7607c02e85c2a8768d",
+      "audio_sha256": "4b075b5debe0a04e88c8712ea714d0c374db96d1d1b9d6a003a0454874efb4f9",
+      "pcm_frames": 5252400
+    },
+    {
+      "index": 5,
+      "text_sha256": "485dd210d4f8688cde923ca1d9d854e361939dcf3baf6420d40f3d63d31a8c28",
+      "audio_sha256": "99a1087d0d65bc8761f0c38a2613e6c775347f996f39813d768f6dc1566fdd5c",
+      "pcm_frames": 5662200
+    },
+    {
+      "index": 6,
+      "text_sha256": "590faf4f66c48e1226a9c309c6b65ff57bd221d7727a5d945bd7728549901b3d",
+      "audio_sha256": "2bd9cfef99e3397eb2572cc6b5ff5f68e41f648a0f39ab8dd81f2eed119ec0af",
+      "pcm_frames": 5841120
+    },
+    {
+      "index": 7,
+      "text_sha256": "e9e0d80b2186b627002151dc11cea1137344b52e3470806b844a9bd252e34e10",
+      "audio_sha256": "bc034adb1f5d38f28e207538164404a402f8b850f456e8cfee1924d6e9d4a24e",
+      "pcm_frames": 4781400
+    },
+    {
+      "index": 8,
+      "text_sha256": "75885c23fad71df544500c93ac0f4841a2a93b8bcde91b57756491278b69f99a",
+      "audio_sha256": "461dd8c2746165051c8dcc3f9e4600a615806f74aacddecf724498f85eec85a5",
+      "pcm_frames": 5538240
+    },
+    {
+      "index": 9,
+      "text_sha256": "d534d95afad9df18cd09e88866b0a654f58c9d621f792d0aa968a7aac34fc03c",
+      "audio_sha256": "a63a72287815b50b1a1fb911ee3d1acee565923e5920dbbb7ff47247586877d9",
+      "pcm_frames": 5884920
+    },
+    {
+      "index": 10,
+      "text_sha256": "26c355dc2da6426ad1a09e65483ba78ef986f4214a72397bf89e592e6bf79df9",
+      "audio_sha256": "406bbd27078deca09b6ca3e27924a1551fce06ada62fd0166c5590238322db52",
+      "pcm_frames": 4742400
+    },
+    {
+      "index": 11,
+      "text_sha256": "c86073387fc0f13408ec844760b5a45075b306d5184bdf064824d19d5555c353",
+      "audio_sha256": "6590d787c2191d8902d73248db218a02d1351a248cf06a2708d9e763fd0c679b",
+      "pcm_frames": 4316280
+    },
+    {
+      "index": 12,
+      "text_sha256": "72d36b1c245b498b2647d26dfd56da5f7685f6688bac84e5a61dd72fd14b1fc7",
+      "audio_sha256": "e01fb4a2826685a2e3b60c6e0237e0768f4b1cd73dbf0047ff04c36f7da341b9",
+      "pcm_frames": 4819680
+    },
+    {
+      "index": 13,
+      "text_sha256": "0082a7071e2e573b2bf41fe837744eee6a58c8cd3ff65b87d9d8045f279cbb68",
+      "audio_sha256": "f30b1ed46b7dc8d34655ad4951e998714526c687d7a84a2dc80f29b02562fe40",
+      "pcm_frames": 5432280
+    },
+    {
+      "index": 14,
+      "text_sha256": "8fc82a6e766268002d29132b27e39420c3f05b4cb828dcedbbcd27be9e62b96a",
+      "audio_sha256": "be3923adf414c44fde988de76d6701bf3f4770a48f6dee7c64d0cf28ae47ef2b",
+      "pcm_frames": 5980200
+    },
+    {
+      "index": 15,
+      "text_sha256": "0f92b9f2ee20a1c9e977f131bf9ddb31db1460b52fe7fb24362e4e016e0cafe1",
+      "audio_sha256": "f2dd92ca186bd1f6c7b45f7867fb6918d25b7acca6a3871b4d9ce36200d7ea92",
+      "pcm_frames": 5447400
+    },
+    {
+      "index": 16,
+      "text_sha256": "a2495aaf8bf85d58e534aabc106b3761cde7e3b0fdf1995f1d9b8447133b210a",
+      "audio_sha256": "28f5f870ff86c6a50129e83a1c35178274d4fe8832c653412a6373713a40160b",
+      "pcm_frames": 4947240
+    },
+    {
+      "index": 17,
+      "text_sha256": "e1fd49625aed276bde49eeaba6de6e3d1c3394546790d5ef437a61a7ce1cf26d",
+      "audio_sha256": "c3d408df1bace1c6eb3750594c7866dad889121b475ead4838d285f8c3582052",
+      "pcm_frames": 5651520
+    },
+    {
+      "index": 18,
+      "text_sha256": "e0de3614c9db059ef9af80eaa8329ae75e7adf2ec3d9b394511769dab6b38603",
+      "audio_sha256": "ab503ed8949687a991a9cbba2fb1e39ee7f35ac4b0ca6722ad027f8595c8be54",
+      "pcm_frames": 6239880
+    },
+    {
+      "index": 19,
+      "text_sha256": "6a9f6c13331ef08bb7007b324af60d9e763212cc942ad353cd4ab23d2a108a04",
+      "audio_sha256": "3d18d31b8087776d8c1ef41c08a10a13f1e01d12ad6f55d56d1577e2553427d1",
+      "pcm_frames": 5208480
+    },
+    {
+      "index": 20,
+      "text_sha256": "786f798720ed19d496f5ce9e59ad1d7da5260a3bf51312d29de1f3ab64587927",
+      "audio_sha256": "eb86eb4b9b82ee32aff32a52800636164160d4a080649d5ae7246ec8b7bc87ca",
+      "pcm_frames": 5744520
+    },
+    {
+      "index": 21,
+      "text_sha256": "75c0b37077b27799c227f4b571a69f5ddd1d9f7466f11166949d09ca16b5466c",
+      "audio_sha256": "437c04b842ceb454a1fc46b790b7e8637a0ce9925bb6a95938ddef3ad59ed28c",
+      "pcm_frames": 5169600
+    },
+    {
+      "index": 22,
+      "text_sha256": "a2d115fa991ca034560869bc2aba436942202e7e4de647b4db9619eec83ba9c5",
+      "audio_sha256": "511e233ee41daa91ddc07f5fd188333f798eceaa9df9a8ac29436b3e20e25fbf",
+      "pcm_frames": 5477400
+    },
+    {
+      "index": 23,
+      "text_sha256": "176c1319ea198105bc38842f101292a4eda2cd21d8e258107a6a5abec6495011",
+      "audio_sha256": "e055149be0b0070bb731bd431008fd7a42bd9808f49de299fda52977db6c1c05",
+      "pcm_frames": 5182320
+    },
+    {
+      "index": 24,
+      "text_sha256": "66b11fb687d75577a874efa2a101203a2995c6ef86c5376e704d499d5c3b9cf4",
+      "audio_sha256": "86648b8f6731051829978089de909c0eaf1532be8b227f0e50df3c14ec6ed8b5",
+      "pcm_frames": 3431160
+    }
+  ],
+  "pcm_sha256": "8bf4baade07ec06b24f016d2404e29fa996b3038b82570fc2dc57b1becf97c13",
+  "pcm_frames": 128012640,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed/releases/article-09df356e778ed796e9959f7d/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed/releases/article-09df356e778ed796e9959f7d/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed/releases/article-09df356e778ed796e9959f7d/rss-item.xml",
+  "released_at": "2026-09-15T03:00:57.951027+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

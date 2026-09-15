@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Mark (Colossus)</title>
+  <description>An audio reading of Mark from Colossus.</description>
+  <link>https://colossus.com/article/mark-zuckerberg-profile/</link>
+  <pubDate>Tue, 15 Sep 2026 03:00:57 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:09df356e778ed796e9959f7d9683c6cbc3ec3578dc24aabe689204a15afcfb81</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/releases/article-09df356e778ed796e9959f7d/article.mp3" length="85343492" type="audio/mpeg" />
+  <itunes:author>Jeremy Stern</itunes:author>
+  <itunes:duration>01:28:54</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
