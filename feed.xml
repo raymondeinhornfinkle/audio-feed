@@ -7,7 +7,381 @@
     <language>en-us</language>
     <itunes:author>Raymond Einhorn Finkle</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 15 Sep 2026 15:52:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:24:54 +0000</lastBuildDate>
+    <item>
+      <title>Graham Duncan: Talent Whisperer (Colossus)</title>
+      <description>An audio reading of Graham Duncan: Talent Whisperer from Colossus.</description>
+      <link>https://colossus.com/article/graham-duncan-talent-whisperer/</link>
+      <pubDate>Tue, 15 Sep 2026 16:05:04 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:09cb1854a6f5e19fa1d2fa9aecd5efff66f4395e3d14ce62f094b81d6d092508</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-09cb1854a6f5e19fa1d2fa9a/article.mp3" length="35753366" type="audio/mpeg" />
+      <itunes:author>Gabi</itunes:author>
+      <itunes:duration>00:37:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Pathfinder: Blake Hall (Colossus)</title>
+      <description>An audio reading of Pathfinder: Blake Hall from Colossus.</description>
+      <link>https://colossus.com/article/pathfinder-blake-hall/</link>
+      <pubDate>Tue, 15 Sep 2026 16:10:02 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:cacee32b34a1d0eaab566f4e8c51aceab9077ce8e707f0b45fb8df943811a166</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-cacee32b34a1d0eaab566f4e/article.mp3" length="13080460" type="audio/mpeg" />
+      <itunes:author>Gabi</itunes:author>
+      <itunes:duration>00:13:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Visions of Neil Mehta (Colossus)</title>
+      <description>An audio reading of The Visions of Neil Mehta from Colossus.</description>
+      <link>https://colossus.com/article/the-visions-of-neil-mehta-greenoaks/</link>
+      <pubDate>Wed, 16 Sep 2026 16:09:23 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:088eaffef973de1b8bee8bdd354b0e831db9395065f8d50f049f3488cebabdae</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-088eaffef973de1b8bee8bdd/article.mp3" length="58641688" type="audio/mpeg" />
+      <itunes:author>Jeremy Stern</itunes:author>
+      <itunes:duration>01:01:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Man With the Hot Hand (Colossus)</title>
+      <description>An audio reading of The Man With the Hot Hand from Colossus.</description>
+      <link>https://colossus.com/article/ramtin-naimi-man-hot-hand/</link>
+      <pubDate>Wed, 16 Sep 2026 16:09:46 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:077f20e50c4835e6d74a2b68922d14bb542641969ead42f83dee65555bbc40c0</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-077f20e50c4835e6d74a2b68/article.mp3" length="45568021" type="audio/mpeg" />
+      <itunes:author>Dom Cooke</itunes:author>
+      <itunes:duration>00:47:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Paradigm Shifts (Colossus)</title>
+      <description>An audio reading of Paradigm Shifts from Colossus.</description>
+      <link>https://colossus.com/article/paradigm-shifts-matt-huang/</link>
+      <pubDate>Wed, 16 Sep 2026 16:10:17 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:93048d59e390604e4bdeddebd3996f57178ae285c4a32511c721df65e76c5a4a</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-93048d59e390604e4bdeddeb/article.mp3" length="52783371" type="audio/mpeg" />
+      <itunes:author>Dom Cooke</itunes:author>
+      <itunes:duration>00:54:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Garnett Station Partners: Creating a Finance Franchise (Colossus)</title>
+      <description>An audio reading of Garnett Station Partners: Creating a Finance Franchise from Colossus.</description>
+      <link>https://colossus.com/article/garnett-station-partners/</link>
+      <pubDate>Wed, 16 Sep 2026 16:10:33 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:71e23429f6aa4833eb85aea081dc10e39ef15a237e7f4ca6a6757504a35a5a4c</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-71e23429f6aa4833eb85aea0/article.mp3" length="36546737" type="audio/mpeg" />
+      <itunes:author>Dom Cooke</itunes:author>
+      <itunes:duration>00:38:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>When Will Robots Go Mainstream? (Colossus)</title>
+      <description>An audio reading of When Will Robots Go Mainstream? from Colossus.</description>
+      <link>https://colossus.com/article/when-will-robots-go-mainstream/</link>
+      <pubDate>Wed, 16 Sep 2026 16:10:58 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:c6d0d0aeaaac5f98d5e7a22161e7f959ef8cf737b49bcfd0b59dcba8ad129dbc</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-c6d0d0aeaaac5f98d5e7a221/article.mp3" length="75194398" type="audio/mpeg" />
+      <itunes:author>Terran Mott</itunes:author>
+      <itunes:duration>01:18:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AI Will Not Make You Rich (Colossus)</title>
+      <description>An audio reading of AI Will Not Make You Rich from Colossus.</description>
+      <link>https://colossus.com/article/ai-will-not-make-you-rich/</link>
+      <pubDate>Wed, 16 Sep 2026 16:11:13 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:8dc47517761712e60fbd71082cee5c341420033ae932ed6e954e1ead4aedbfa0</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-8dc47517761712e60fbd7108/article.mp3" length="34338713" type="audio/mpeg" />
+      <itunes:author>Jerry Neumann</itunes:author>
+      <itunes:duration>00:35:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Amusement Park for Engineers (Colossus)</title>
+      <description>An audio reading of The Amusement Park for Engineers from Colossus.</description>
+      <link>https://colossus.com/article/the-amusement-park-for-engineers/</link>
+      <pubDate>Wed, 16 Sep 2026 16:11:38 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:431a5b0b83c49739388b4fd2dd7c3251aeb57ef63267ff3a21fa9e63fa2cebfd</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-431a5b0b83c49739388b4fd2/article.mp3" length="44616479" type="audio/mpeg" />
+      <itunes:author>Adnan Esmail</itunes:author>
+      <itunes:duration>00:46:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Is Space Investable? (Colossus)</title>
+      <description>An audio reading of Is Space Investable? from Colossus.</description>
+      <link>https://colossus.com/article/is-space-investable/</link>
+      <pubDate>Wed, 16 Sep 2026 16:12:02 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:67926431d4a473b881f5f2a26256e0226826da07b7c2df380aa1dffb65275826</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-67926431d4a473b881f5f2a2/article.mp3" length="58453143" type="audio/mpeg" />
+      <itunes:author>Donald Lee-Brown</itunes:author>
+      <itunes:duration>01:00:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>We Have Learned Nothing (Colossus)</title>
+      <description>An audio reading of We Have Learned Nothing from Colossus.</description>
+      <link>https://colossus.com/article/we-have-learned-nothing-startup-pundits/</link>
+      <pubDate>Wed, 16 Sep 2026 16:12:11 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:aca41ac35fcccbb09cd48b10babeb069ae934f33994a4ca602638c0a7e76a9b0</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-aca41ac35fcccbb09cd48b10/article.mp3" length="25915670" type="audio/mpeg" />
+      <itunes:author>Jerry Neumann</itunes:author>
+      <itunes:duration>00:27:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Patriot (Colossus)</title>
+      <description>An audio reading of The Patriot from Colossus.</description>
+      <link>https://colossus.com/article/the-patriot-shyam-sankar-palantir/</link>
+      <pubDate>Wed, 16 Sep 2026 16:12:50 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:77449ec48fbc602a6405deba3e063d471e77dcd7af74e959765714583c7d13fe</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-77449ec48fbc602a6405deba/article.mp3" length="81224715" type="audio/mpeg" />
+      <itunes:author>Jeremy Stern</itunes:author>
+      <itunes:duration>01:24:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Are We Underestimating How AI Will Change Private Markets? (Colossus)</title>
+      <description>An audio reading of Are We Underestimating How AI Will Change Private Markets? from Colossus.</description>
+      <link>https://colossus.com/article/are-we-underestimating-how-ai-will-change-private-markets/</link>
+      <pubDate>Wed, 16 Sep 2026 16:13:13 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:0c3aeb6d8cde4334405c17bd8e8696f5273a40c2f06ce4ffb4a96beb54aa30eb</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-0c3aeb6d8cde4334405c17bd/article.mp3" length="54420043" type="audio/mpeg" />
+      <itunes:author>Donald Lee-Brown &amp; Terran Mott</itunes:author>
+      <itunes:duration>00:56:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Inside Cursor (Colossus)</title>
+      <description>An audio reading of Inside Cursor from Colossus.</description>
+      <link>https://colossus.com/article/inside-cursor/</link>
+      <pubDate>Wed, 16 Sep 2026 16:13:30 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:a5db6fd9647a500cdb072e95bb7c8cc847e04819994ce4444368c3fb9fd1a2d4</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-a5db6fd9647a500cdb072e95/article.mp3" length="35868172" type="audio/mpeg" />
+      <itunes:author>Brie Wolfson</itunes:author>
+      <itunes:duration>00:37:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Project Mario (Colossus)</title>
+      <description>An audio reading of Project Mario from Colossus.</description>
+      <link>https://colossus.com/article/project-mario-demis-hassabis-deepmind-mallaby/</link>
+      <pubDate>Wed, 16 Sep 2026 16:13:56 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:bdb92e56be358a3549f15a72190942cddea8ae68fc6b22e640f1acbb6e926168</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-bdb92e56be358a3549f15a72/article.mp3" length="54842001" type="audio/mpeg" />
+      <itunes:author>Sebastian Mallaby</itunes:author>
+      <itunes:duration>00:57:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Education of the Broligarchy (Colossus)</title>
+      <description>An audio reading of The Education of the Broligarchy from Colossus.</description>
+      <link>https://colossus.com/article/education-broligarchy-silicon-valley-canon/</link>
+      <pubDate>Wed, 16 Sep 2026 16:14:14 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:dc75cfc2ecf7ddc781044bd6759f1658d7b77c1513d679c0cbe2f88c8c96a759</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dc75cfc2ecf7ddc781044bd6/article.mp3" length="43381150" type="audio/mpeg" />
+      <itunes:author>Blake Smith</itunes:author>
+      <itunes:duration>00:45:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Last Human Edge (Colossus)</title>
+      <description>An audio reading of The Last Human Edge from Colossus.</description>
+      <link>https://colossus.com/article/henry-ellenbogen-last-human-edge/</link>
+      <pubDate>Wed, 16 Sep 2026 16:14:40 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:75dcd13efd6f29b90165ea8c52a989717a00899978b6fd3e233abdb5dc58ea87</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-75dcd13efd6f29b90165ea8c/article.mp3" length="68265488" type="audio/mpeg" />
+      <itunes:author>Dom Cooke</itunes:author>
+      <itunes:duration>01:11:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Taste in Math (Colossus)</title>
+      <description>An audio reading of Taste in Math from Colossus.</description>
+      <link>https://colossus.com/article/taste-in-math/</link>
+      <pubDate>Wed, 16 Sep 2026 16:15:09 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:7edf63334204464d8befa4aa0cf7ae3dc7fa2adc53986920ddd49ef004459218</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-7edf63334204464d8befa4aa/article.mp3" length="17025674" type="audio/mpeg" />
+      <itunes:author>Terran Mott</itunes:author>
+      <itunes:duration>00:17:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The New World (Colossus)</title>
+      <description>An audio reading of The New World from Colossus.</description>
+      <link>https://colossus.com/article/joshua-kushner-thrive-new-world/</link>
+      <pubDate>Wed, 16 Sep 2026 16:15:34 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:037a66aff9715ff5180ab6ec947632a87abb51fff79821cc91466f87a6ec72a5</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-037a66aff9715ff5180ab6ec/article.mp3" length="82565645" type="audio/mpeg" />
+      <itunes:author>Jeremy Stern</itunes:author>
+      <itunes:duration>01:26:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Wu Tapes (Colossus)</title>
+      <description>An audio reading of The Wu Tapes from Colossus.</description>
+      <link>https://colossus.com/article/scott-wu-tapes-cognition/</link>
+      <pubDate>Wed, 16 Sep 2026 16:16:02 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:1a4aa5d91541c80645cca7f221fef10dfc9a060a7951219a25f6ef0f41d8962c</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-1a4aa5d91541c80645cca7f2/article.mp3" length="65406219" type="audio/mpeg" />
+      <itunes:author>Jeremy Stern</itunes:author>
+      <itunes:duration>01:08:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>A Foundation Model in Your Pocket (Colossus)</title>
+      <description>An audio reading of A Foundation Model in Your Pocket from Colossus.</description>
+      <link>https://colossus.com/article/raspberry-pi-eben-upton/</link>
+      <pubDate>Wed, 16 Sep 2026 16:16:15 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:ff27e9cdd91f5ed36d6ce22b401229560503ef3ff64cc72934f6cb4586e2623a</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-ff27e9cdd91f5ed36d6ce22b/article.mp3" length="28471966" type="audio/mpeg" />
+      <itunes:author>Terran Mott</itunes:author>
+      <itunes:duration>00:29:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Inside Notion (Colossus)</title>
+      <description>An audio reading of Inside Notion from Colossus.</description>
+      <link>https://colossus.com/article/inside-notion/</link>
+      <pubDate>Wed, 16 Sep 2026 16:16:44 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:824d1992bdb2c3953cf8e7a2ae2c9e94662735521a3c5462ade16702243c178b</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-824d1992bdb2c3953cf8e7a2/article.mp3" length="47155103" type="audio/mpeg" />
+      <itunes:author>Brie Wolfson &amp; Camille Ricketts</itunes:author>
+      <itunes:duration>00:49:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Life’s Work Leaders (Colossus)</title>
+      <description>An audio reading of Life’s Work Leaders from Colossus.</description>
+      <link>https://colossus.com/article/lifes-work-leaders/</link>
+      <pubDate>Wed, 16 Sep 2026 16:16:56 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:341d288cd8175d0c6aaa84a8545a7a23737e844789383a1ff5b8d70d96135048</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-341d288cd8175d0c6aaa84a8/article.mp3" length="30479115" type="audio/mpeg" />
+      <itunes:author>Gabi</itunes:author>
+      <itunes:duration>00:31:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Built to Own (Colossus)</title>
+      <description>An audio reading of Built to Own from Colossus.</description>
+      <link>https://colossus.com/article/3g-capital-built-to-own/</link>
+      <pubDate>Wed, 16 Sep 2026 16:17:26 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:e92db5af8968adbbf8a6e98d9fa34bd8e9ea32f9f53c1f9daebf1d55d314782d</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-e92db5af8968adbbf8a6e98d/article.mp3" length="74435593" type="audio/mpeg" />
+      <itunes:author>Dom Cooke</itunes:author>
+      <itunes:duration>01:17:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Class Dismissed (Colossus)</title>
+      <description>An audio reading of Class Dismissed from Colossus.</description>
+      <link>https://colossus.com/article/joe-liemandt-class-dismissed/</link>
+      <pubDate>Wed, 16 Sep 2026 16:18:11 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:5cd5eb9371150091aa1a532056717ab7c480e611172d0837730ad9ac6853d194</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-5cd5eb9371150091aa1a5320/article.mp3" length="98683663" type="audio/mpeg" />
+      <itunes:author>Jeremy Stern</itunes:author>
+      <itunes:duration>01:42:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>White Collar PEDs (Colossus)</title>
+      <description>An audio reading of White Collar PEDs from Colossus.</description>
+      <link>https://colossus.com/article/white-collar-peds/</link>
+      <pubDate>Wed, 16 Sep 2026 16:18:22 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:0f2d15599020f34908a5f78774f515c43dc13ea2299b0975ce426c5dcd3fad2e</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-0f2d15599020f34908a5f787/article.mp3" length="29981842" type="audio/mpeg" />
+      <itunes:author>Park MacDougald</itunes:author>
+      <itunes:duration>00:31:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Wretched Refuse (Colossus)</title>
+      <description>An audio reading of The Wretched Refuse from Colossus.</description>
+      <link>https://colossus.com/article/michael-moritz-memoir/</link>
+      <pubDate>Wed, 16 Sep 2026 16:18:37 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:28520f1f0e241de8789d05c05c14ec12adc4433c1d2f973b2357d7db8a6f30e9</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-28520f1f0e241de8789d05c0/article.mp3" length="31348883" type="audio/mpeg" />
+      <itunes:author>Michael Moritz</itunes:author>
+      <itunes:duration>00:32:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Flounder Mode (Colossus)</title>
+      <description>An audio reading of Flounder Mode from Colossus.</description>
+      <link>https://colossus.com/article/flounder-mode/</link>
+      <pubDate>Wed, 16 Sep 2026 16:18:49 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:557ecaddad6bd617c82630f2a8fbf259da3019ade5de81c762b8fdc524946bdb</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-557ecaddad6bd617c82630f2/article.mp3" length="19791243" type="audio/mpeg" />
+      <itunes:author>Brie Wolfson</itunes:author>
+      <itunes:duration>00:20:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Lovely Day for the Black Stuff (Colossus)</title>
+      <description>An audio reading of Lovely Day for the Black Stuff from Colossus.</description>
+      <link>https://colossus.com/article/guinness/</link>
+      <pubDate>Wed, 16 Sep 2026 16:19:09 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:2728a37fcc65abeaaf41d534faa11f5701d6479515747dde4162ccaf26734caa</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-2728a37fcc65abeaaf41d534/article.mp3" length="50893340" type="audio/mpeg" />
+      <itunes:author>Alex Bilmes</itunes:author>
+      <itunes:duration>00:53:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Sarah’s Wager (Colossus)</title>
+      <description>An audio reading of Sarah’s Wager from Colossus.</description>
+      <link>https://colossus.com/article/sarah-guo-conviction/</link>
+      <pubDate>Wed, 16 Sep 2026 16:19:41 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:990b83d2fcbd50a519554e9d2a11ea4adf2c823953d0c6b9c24a49fc10e9f8a9</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-990b83d2fcbd50a519554e9d/article.mp3" length="63930123" type="audio/mpeg" />
+      <itunes:author>Dom Cooke</itunes:author>
+      <itunes:duration>01:06:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Invisible Companies (Colossus)</title>
+      <description>An audio reading of Invisible Companies from Colossus.</description>
+      <link>https://colossus.com/article/invisible-companies/</link>
+      <pubDate>Wed, 16 Sep 2026 16:19:52 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:fff9c6ffebb8e2f6b5d2a073d84db80977d2f9583e8afd33c726364ad9540422</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-fff9c6ffebb8e2f6b5d2a073/article.mp3" length="22081838" type="audio/mpeg" />
+      <itunes:author>Jay Barney, Haiyang Zhang &amp; Jerry Neumann</itunes:author>
+      <itunes:duration>00:23:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>A Suicide (Colossus)</title>
+      <description>An audio reading of A Suicide from Colossus.</description>
+      <link>https://colossus.com/article/memorial-day-suicide/</link>
+      <pubDate>Wed, 16 Sep 2026 16:19:59 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:dd1a2ab88352196a022fbd9acd1a483fb5873e2d6302bbf2775e7f848a7f30b2</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-1/releases/article-dd1a2ab88352196a022fbd9a/article.mp3" length="12946439" type="audio/mpeg" />
+      <itunes:author>Jeremy Stern</itunes:author>
+      <itunes:duration>00:13:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Making of a Market Maker (Colossus)</title>
+      <description>An audio reading of The Making of a Market Maker from Colossus.</description>
+      <link>https://colossus.com/article/thomas-peterffy-market-maker/</link>
+      <pubDate>Wed, 16 Sep 2026 16:20:15 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:209f272bd87301e83402e4816b5ca063e0b10e169a752a268d3a830c174a5a9e</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-209f272bd87301e83402e481/article.mp3" length="38028952" type="audio/mpeg" />
+      <itunes:author>Dom Cooke</itunes:author>
+      <itunes:duration>00:39:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Beyond the Sky (Colossus)</title>
+      <description>An audio reading of Beyond the Sky from Colossus.</description>
+      <link>https://colossus.com/article/beyond-the-sky-jeffrey-yan-hyperliquid/</link>
+      <pubDate>Wed, 16 Sep 2026 16:20:37 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:bb2c2d542b55395cfac6efaee79bfdb04411f11dbd855095a4c404925b7abda3</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-bb2c2d542b55395cfac6efae/article.mp3" length="62835338" type="audio/mpeg" />
+      <itunes:author>Dom Cooke</itunes:author>
+      <itunes:duration>01:05:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Devon Zuegel is Building a New Town (Colossus)</title>
       <description>An audio reading of Devon Zuegel is Building a New Town from Colossus.</description>
