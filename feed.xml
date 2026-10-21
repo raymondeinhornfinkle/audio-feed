@@ -7,7 +7,16 @@
     <language>en-us</language>
     <itunes:author>Raymond Einhorn Finkle</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 15 Oct 2026 18:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:51:50 GMT</lastBuildDate>
+    <item>
+      <title>Counting Beans</title>
+      <description>A full audio reading of the supplied essay Counting Beans, narrated locally with Kokoro’s George voice. Includes four chapter markers.</description>
+      <pubDate>Wed, 21 Oct 2026 12:51:50 GMT</pubDate>
+      <guid isPermaLink="false">urn:article-reader:b1478eb41ad2d0a7a495e5c2801a53519c783b0008c98e582d435f28631b1055</guid>
+      <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed/releases/article-b1478eb41ad2d0a7a495e5c2/article.mp3" length="30836096" type="audio/mpeg" />
+      <itunes:duration>00:32:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Neural Networks Are Already Clean (Goodfire)</title>
       <description>A full audio reading of Neural Networks Are Already Clean by Nick Cammarata, published by Goodfire. Includes the appendix, footnotes, figure descriptions, and references. Narrated locally with Kokoro’s George voice.</description>
